@@ -1,4 +1,5 @@
 *****Java Console Calculator – Outputs*****🖨️
+
 **CODE:**
  <img width="1896" height="1016" alt="Screenshot 2025-08-06 193342" src="https://github.com/user-attachments/assets/3685accb-8afd-49e3-820e-5eede320dec5" />
  
