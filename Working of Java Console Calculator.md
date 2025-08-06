@@ -35,7 +35,7 @@
 <img src="https://github.com/user-attachments/assets/03b59525-e5a9-4e95-bc52-8855a4fcefef" alt="Square Root of Negative" width="100%" />
 
 <h2>Power Function (Exponentiation)</h2>
-<img src="https://github.com/user-attachments/assets/3287477f-5c87-421c-ab02-1934358f25a1" alt="Power Function" width="80%" />
+<img src="https://github.com/user-attachments/assets/3287477f-5c87-421c-ab02-1934358f25a1" alt="Power Function" width="100%" />
 
 <h2>Exit from Application</h2>
-<img src="https://github.com/user-attachments/assets/086f6758-0837-466d-976a-d67e74b7a2c6" alt="Exit Screen" width="80%" />
+<img src="https://github.com/user-attachments/assets/086f6758-0837-466d-976a-d67e74b7a2c6" alt="Exit Screen" width="100%" />
